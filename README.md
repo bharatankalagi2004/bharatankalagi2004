@@ -78,11 +78,10 @@
 
 | Project | Description |
 |---|---|
-| **[AI Recruitment Platform](https://github.com/bharatankalagi2004)** | Full-stack AI recruitment platform with RAG-based candidate ranking, Groq LLM-powered fit scoring, gap analysis, ATS resume optimization, and cover letter generation. Reduced manual screening effort by ~70%. |
-| **[JD–CV Matching System](https://github.com/bharatankalagi2004)** | Desktop app (Python + Tkinter) using TF-IDF and semantic similarity for automated resume screening and candidate ranking. |
-| **[Smart Employee Management System](https://github.com/bharatankalagi2004)** | FastAPI-based employee management system with secure CRUD operations for attendance, payroll, and records using SQLite + SQLAlchemy. |
-
-> 💡 Update the links above with your actual repo URLs.
+| **[AI Recruitment Platform](https://github.com/bharatankalagi2004/ai-recruitment-platform)** | Full-stack AI recruitment platform with RAG-based candidate ranking, Groq LLM-powered fit scoring, gap analysis, ATS resume optimization, and cover letter generation. Reduced manual screening effort by ~70%. |
+| **[JD–CV Matching System](https://github.com/bharatankalagi2004/JD-CV-Matching-Using-Tkinter)** | Desktop app (Python + Tkinter) using TF-IDF and semantic similarity for automated resume screening and candidate ranking. |
+| **[Smart Employee Management System](https://github.com/bharatankalagi2004/Employee_Management_System)** | FastAPI-based employee management system with secure CRUD operations for attendance, payroll, and records using SQLite + SQLAlchemy. |
+| **[Sea Surveillance – ESP32-CAM IoT Boat](https://github.com/bharatankalagi2004/Sea-Surveillance-ESP32-CAM-IoT-Boat)** | IoT-based surveillance boat using ESP32-CAM for remote monitoring of sea/water bodies, combining embedded systems with live video streaming. |
 
 ---
 
@@ -109,4 +108,3 @@
 ---
 
 <p align="center"><i>Open to Software Engineer, Backend Developer, and GenAI Developer roles 🚀</i></p>
-
