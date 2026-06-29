@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Kumar S Ankalagi</h1>
-<h3 align="center">Backend Developer | GenAI Developer | AWS Certified AI & Cloud Practitioner</h3>
+<h3 align="center">Backend Developer | GenAI Developer | AWS Certified Solutions Architect – Associate | AWS Certified AI & Cloud Practitioner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bharat-kumar-s-ankalagi-123008333/">
@@ -90,6 +90,7 @@
 
 - ✅ AWS Certified AI Practitioner
 - ✅ AWS Certified Cloud Practitioner
+- ✅ AWS Certified Solutions Architect – Associate
 - ✅ Introduction to Cybersecurity – Cisco Networking Academy
 - 🏅 Best Innovative Project Award – DSCE Project Open Day
 
