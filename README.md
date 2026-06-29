@@ -18,7 +18,8 @@
 ### 🚀 About Me
 
 - 🎓 B.E. in Electronics and Communication Engineering, Dayananda Sagar College of Engineering (2022–2026)
-- ☁️ AWS Certified **AI Practitioner** and **Cloud Practitioner**
+- ☁️ AWS Certified Solutions Architect – Associate | AWS Certified AI Practitioner | AWS Certified Cloud Practitioner
+- 💻 Backend Developer | Python | FastAPI | AWS | GenAI | RAG | PostgreSQL
 - 💼 ML Intern at **Sasken Technologies Ltd.** (Aug 2025 – Jan 2026)
 - 🤖 Passionate about Generative AI, NLP, and building production-ready backend systems
 - 🔭 Currently building AI-powered recruitment and automation tools
