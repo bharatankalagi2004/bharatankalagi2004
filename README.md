@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Bharat Kumar S Ankalagi
-![Bharat Kumar S Ankalagi](assets/thumbnail.png)
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-kumar-s-ankalagi-123008333/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatankalagi2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharatankalagi2004)
