@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-Backend & GenAI Developer, final-year B.E. (Electronics & Communication) student at Dayananda Sagar College of Engineering (2022–2026), specialising in Python backend systems, Retrieval-Augmented Generation (RAG), and LLM-powered applications.
+Backend & GenAI Developer, Engineering Graduate B.E. (Electronics & Communication) at Dayananda Sagar College of Engineering (2022–2026), specializing in Python backend systems, Retrieval-Augmented Generation (RAG), and LLM-powered applications.
 
 Passionate about building AI-powered systems that go beyond prototypes and solve real problems — from resume screening automation to production-ready backend platforms. Currently working as an ML Intern at Sasken Technologies Ltd. (Aug 2025 – Jan 2026), and AWS Certified across AI, Cloud, and Solutions Architecture.
 
